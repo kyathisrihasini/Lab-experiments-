@@ -6,4 +6,4 @@ int main()
     scanf("%f %f",&speed,&time);
     distance =speed*time;
     printf("distance = %.2f", distance);
-}
+} 
