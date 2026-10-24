@@ -4,7 +4,7 @@ void main() {
     int a, b, c, d;
     int max, min;
 
-    printf("Enter four numbers");
+    printf("Enter four numbers ");
     scanf("%d %d %d %d", &a, &b, &c, &d);
 
     max = a;
