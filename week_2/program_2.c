@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
+{ 
  float C,F;
  printf("Enter the temperature in celsius");
  scanf("%.2f",&C);
