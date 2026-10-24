@@ -2,7 +2,7 @@
 void main() {
     float units, total_bill;
 
-    printf("Enter total units ");
+    printf("Enter total units");
   scanf("%f",&uits);
     if ( units < 0) {
         printf("\nInvalid input");
