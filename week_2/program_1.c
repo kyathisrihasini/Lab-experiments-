@@ -6,7 +6,7 @@ void main()
 printf("enter three numbers");
 scanf("%d %d %d",&a,&b,&c);
 sum=a+b+c;
-printf("%d",sum);
+printf("/n%d",sum);
 avg=sum/3;
-printf("%f",avg);
+printf("/n%f",avg);
 }
